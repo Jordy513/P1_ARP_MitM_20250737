@@ -39,7 +39,7 @@ Este laboratorio se realiza en un entorno controlado con fines **exclusivamente 
 
 ## 2. Objetivo del Script
 
-El script `JordyRosario_20250737_ARP_MitM.py` implementa un ataque de **ARP Spoofing bidireccional** utilizando la librería Scapy. El script resuelve automáticamente las MACs de los objetivos, activa el reenvío de paquetes IP en el kernel de Kali para no interrumpir la conectividad de la víctima, y envía continuamente ARP Replies falsos a ambos extremos de la comunicación.
+El script [JordyRosario_20250737_ARP_MitM.py](JordyRosario_20250737_ARP_MitM.py) implementa un ataque de **ARP Spoofing bidireccional** utilizando la librería Scapy. El script resuelve automáticamente las MACs de los objetivos, activa el reenvío de paquetes IP en el kernel de Kali para no interrumpir la conectividad de la víctima, y envía continuamente ARP Replies falsos a ambos extremos de la comunicación.
 
 Al finalizar con `Ctrl+C`, el script **restaura automáticamente** las cachés ARP a su estado original para no dejar rastros de la sesión.
 
