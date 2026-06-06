@@ -363,7 +363,7 @@ ip neigh flush dev eth1
 
 🎥 **[Ver demostración en YouTube](https://youtu.be/eML4x24Aaak)**
 
-**Duración:** X:XX minutos
+**Duración:** 4:36
 
 **Contenido del video:**
 - ✅ Topología visible con nombre y matrícula
